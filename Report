@@ -1,0 +1,10 @@
+Introduction where you discuss the business problem and who would be interested in this project.
+The client is looking forward to open a coffee shop in the Cambridgeshire area but is aware of the presence of competition and would like to target an area which is not well deserved. And would also like to check if coffee related business are trending in similar areas.
+Data where you describe the data that will be used to solve the problem and the source of the data.
+
+First the mapping of the postcodes will need to be done using the Google Geocoding API. And once the locations are defined, check on Foursquare for coffee related venues in each area and if they are trending or not. Potential clustering or comparisons could be achieved from there depending on the success of the first part.
+
+Methodology section which represents the main component of the report where you discuss and describe any exploratory data analysis that you did, any inferential statistical testing that you performed, and what machine learnings were used and why.
+Results section where you discuss the results.
+Discussion section where you discuss any observations you noted and any recommendations you can make based on the results.
+Conclusion section where you conclude the report.
